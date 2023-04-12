@@ -1,2 +1,2 @@
-# IT-JS
+# NewCodingBot
 New Repo
