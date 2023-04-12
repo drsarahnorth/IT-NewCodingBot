@@ -1,2 +1,2 @@
-# NewCodingBot
+# JS-NewCodingBot
 New Repo
